@@ -3,6 +3,12 @@
 - 🌱 I’m currently learning flutter and dsa in java
 - 💞️ I’m looking to collaborate on flutter projects
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NAME-NikhilPatil&show_icons=true&locale=en" alt="name-nikhilpatil" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NAME-NikhilPatil&" alt="name-nikhilpatil" /></p>
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NAME-NikhilPatil&show_icons=true&locale=en&layout=compact" alt="name-nikhilpatil" /></p>
 
 <!---
