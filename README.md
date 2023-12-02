@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning flutter and dsa in java
 - 💞️ I’m looking to collaborate on flutter projects
 
-https://github-readme-stats.vercel.app/api?NAME-NikhilPatil&theme=radical
+https://github-readme-stats.vercel.app/api?username=NAME-NikhilPatil&theme=radical
 <!---
 NAME-NikhilPatil/NAME-NikhilPatil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
