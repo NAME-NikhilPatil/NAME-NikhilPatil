@@ -1,6 +1,6 @@
-
 <h2 align="left">👋 Hi, I’m Nikhil Patil<br>👀 I’m interested in Coding and building Apps<br> 🌱 I’m currently learning flutter and DSA in Python<br>💞️ I’m looking to collaborate on Flutter projects</h2>
 
+###
 
 <br clear="both">
 
@@ -8,6 +8,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=NAME-NikhilPatil&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NAME-NikhilPatil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -73,6 +75,7 @@
   <img src="https://skillicons.dev/icons?i=gradle" height="30" alt="gradle logo"  />
 </div>
 
+###
 
 <div align="left">
   <a href="https://www.youtube.com/channel/UCpakmXio90uAd4RBZqimG8Q'" target="_blank">
@@ -86,17 +89,19 @@
   </a>
 </div>
 
+###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/NAME-NikhilPatil/NAME-NikhilPatil/output/snake.svg" alt="Snake animation" />
 
+###
 
-✍️ Random Dev Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NAME-NikhilPatil&icon=0&color=0)](https://visitcount.itsvg.in)
