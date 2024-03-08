@@ -1,7 +1,7 @@
 
 <h2 align="left">👋 Hi, I’m Nikhil Patil<br>👀 I’m interested in Coding and building Apps<br> 🌱 I’m currently learning flutter and DSA in Python<br>💞️ I’m looking to collaborate on Flutter projects</h2>
 
-###
+
 <br clear="both">
 
 <div align="left">
@@ -85,16 +85,16 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-###
+
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/NAME-NikhilPatil/NAME-NikhilPatil/output/snake.svg" alt="Snake animation" />
 
-###
-### ✍️ Random Dev Quote
+
+✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-### 😂 Random Dev Meme
+😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
