@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I’m Nikhil Patil<br>👀 I’m interested in Coding and building Apps<br> 🌱 I’m currently learning flutter and DSA in Python<br>💞️ I’m looking to collaborate on Flutter projects</h2>
+<h2 align="left">👋 Hi, I’m Nikhil Patil<br>👀 I’m interested in Coding and building Apps<br> 🌱 I’m currently learning flutter and DSA using Python<br>💞️ I’m looking to collaborate on Flutter projects</h2>
 
 ###
 
