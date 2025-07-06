@@ -49,11 +49,6 @@
 
 <br />
 
-✍️ Dev Quote
-<p align="center">
-<img src="https://www.google.com/search?q=https://quotes-github-readme.vercel.app/api%3Ftype%3Dhorizontal%26theme%3Ddark%26hide_border%3Dtrue" alt="Dev Quote" />
-</p>
-
 </td>
 
 </tr>
@@ -65,12 +60,7 @@
 <img src="https://raw.githubusercontent.com/NAME-NikhilPatil/NAME-NikhilPatil/output/snake.svg" alt="Snake animation" />
 </p>
 
-😂 Random Dev Meme
-<p align="center">
-<a href="https://randommeme-five.vercel.app/">
-<img src='https://randommeme-five.vercel.app/' style="max-height: 400px;" alt="Random Dev Meme"/>
-</a>
-</p>
+
 
 <div align="center">
 
